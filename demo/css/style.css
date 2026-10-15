@@ -1,0 +1,13 @@
+.jumbotron {
+    padding: 4rem 2rem;
+    margin-bottom: 2rem;
+    border-radius: 0.5rem;
+    background-color: #c1d1e1;
+    color: #e31a8c;
+    text-align: center;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #e31a8c;
+    border-color: #e31a8c;
+}

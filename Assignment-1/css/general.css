@@ -1,0 +1,52 @@
+
+h1 {
+    font-size: 36px;
+    font-family: 'Playfair Display', serif;
+    color: darkgreen;
+}
+
+p {
+    font-size: 16px;
+    font-family: 'lato', sans-serif;
+    width: 960px;
+}
+
+.byline {
+    font-size: 14px;
+    color: gray;
+}
+
+.byline a {
+   font-size: 14px;
+    color: gray;
+}
+
+.first-paragraph {
+    font-weight: bold;
+}
+
+.tool-link {
+    color:green;
+    text-decoration: none;
+}
+
+.tool-link:hover {
+    text-decoration: underline;
+}
+
+.person-name {
+    font-weight: bold;
+    color:darkolivegreen;
+}
+
+.quote {
+    font-style: italic;
+}
+
+.first-paragraph::first-letter {
+    font-size: 48px;
+    font-weight: bold;
+    float: left;
+    line-height: 1;
+    margin-right: 8px;
+}

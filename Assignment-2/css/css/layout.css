@@ -1,0 +1,79 @@
+h1 {
+    font-size: 36px;
+    font-family: 'Playfair Display', serif;
+    color: #15700B;
+}
+
+p {
+    font-size: 16px;
+    font-family: 'lato', sans-serif;
+}
+
+.byline {
+    font-size: 14px;
+    color: #808080;
+}
+
+.byline a {
+   font-size: 14px;
+    color: #808080;
+}
+
+.first-paragraph {
+    font-weight: bold;
+}
+
+.tool-link {
+    color: #15700B;
+    text-decoration: none;
+}
+
+.tool-link:hover {
+    text-decoration: underline;
+}
+
+.person-name {
+    font-weight: bold;
+    color: #556B2F;
+}
+
+.quote {
+    font-style: italic;
+}
+
+.first-paragraph::first-letter {
+    font-size: 48px;
+    font-weight: bold;
+    float: left;
+    line-height: 1;
+    margin-right: 8px;
+}
+
+.footer-logo {
+    width: 150px;
+}
+
+.social-icon {
+    width: 32px;
+    margin: 0 5px;
+}
+
+.main-image {
+    width: 100%;
+}
+
+.footer {
+    margin-top: 40px;
+    background-color: #F2F2F2;
+    padding: 20px 0;
+}
+
+.footer a {
+    text-decoration: none;
+}
+
+.header {
+    background-color: #F2F2F2;
+    padding: 20px 0;
+}
+
